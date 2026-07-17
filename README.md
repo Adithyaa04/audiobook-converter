@@ -10,7 +10,7 @@ A Python desktop app that converts PDF documents into spoken audio, with real-ti
 -  Play / Stop controls
 -  Page navigation (Next / Previous)
 
-## Planned Features
+## Upcoming Features
 
 - [ ] Adjustable playback speed and voice selection
 - [ ] Export audio to file (save as MP3/WAV)
